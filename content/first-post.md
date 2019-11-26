@@ -1,6 +1,6 @@
-title: First Post on My Sweet New Blog
+title: Welcome to my blog
 date: 2019-11-23
-author: Your Name Here
+author: Wanda Juan
 
 # I am On My Way To Internet Fame and Fortune!
 
