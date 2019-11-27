@@ -1,5 +1,6 @@
 title: About
 date: 2019-11-23
+output_file: about.html
 
 ![So Schmexy][my_sweet_photo]
 
