@@ -7,4 +7,4 @@ date: 2019-11-26
 * Book Recommender
 * More to come
 
-[imgproject]: {static}/images/project.JPG
+[imgproject]: <img src="{static}/images/project.JPG" alt="Girl in a jacket" style="width:500px;height:600px;">
