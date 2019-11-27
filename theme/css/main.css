@@ -1924,10 +1924,11 @@ input::-moz-focus-inner {
 }
 
 .intro-pic {
-  background-color: #02182c;
+  background-color: #D0C5B2;/*#02182c;*/
   background-repeat: no-repeat;
   background-position: top center;
-  background-image: url(../images/hero-pic.jpg);
+/*  background-image: url(../images/hero-pic.jpg);*/
+  background-image: url(../images/profile_candicate1.JPG);
   background-size: cover;
   position: absolute;
   top: 20%;
