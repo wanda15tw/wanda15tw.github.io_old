@@ -1,12 +1,14 @@
-Title: Hans on Survival Analysis
+Title: Predictive Maintenance -- Survival Analysis 
 Date: 2019-12-23
 Category: Python
 Tags: python
 Authors: Wanda Juan
-Summary: Python 101
+Summary: Hands on Survival Analysis using Lifeline
 
+* View this markdown in [github](https://github.com/wanda15tw/survival-analysis), [HackMD](https://hackmd.io/@wG5x2COsRkOpxhsHnBO1_A/HJzZ880AS)
 
-# Predictive Maintenance -- Survival Analysis 
+* [Code in notebook](https://github.com/wanda15tw/survival-analysis/blob/master/1223%20Survival%20Analysis%20-%20confidential%20removed.ipynb)
+
 
 ###### tags: `tech blog`, `tutorials`, `predictive maintenance`, `python`, `lifelines`
 [complete notebook](https://github.com/wanda15tw/survival-analysis/blob/master/1223%20Survival%20Analysis%20-%20confidential%20removed.ipynb)
