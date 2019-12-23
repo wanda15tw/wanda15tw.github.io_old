@@ -1,10 +1,12 @@
 Title: Predictive Maintenance -- Survival Analysis 
 Date: 2019-12-23
-Category: Python
+Category: Project
 Tags: python
 Authors: Wanda Juan
 Summary: Hands on Survival Analysis using Lifeline
 
+<details>
+	<summary>
 * View this markdown in [github](https://github.com/wanda15tw/survival-analysis), [HackMD](https://hackmd.io/@wG5x2COsRkOpxhsHnBO1_A/HJzZ880AS)
 
 * [Code in notebook](https://github.com/wanda15tw/survival-analysis/blob/master/1223%20Survival%20Analysis%20-%20confidential%20removed.ipynb)
@@ -14,6 +16,7 @@ Summary: Hands on Survival Analysis using Lifeline
 [complete notebook](https://github.com/wanda15tw/survival-analysis/blob/master/1223%20Survival%20Analysis%20-%20confidential%20removed.ipynb)
 
 **Predictive maintenance** is to predict *which machinery at which condition needs preventative maintenance* so as to eliminate outages and the costs associated with it. Instead of predicting each individual part's failure, **Survival analysis** is a statistics approach to estimate failure rate. It is also called **reliability analysis** and **event history analysis**. Simply put, it intends to answer -- "How long until an event occurs?"
+</summary>
 
 For example, 
 * How long patients survive?
@@ -265,3 +268,5 @@ This simplified model (constant failure rate = 0.0003 per day / AFR = 203 per ye
 * https://www.youtube.com/watch?v=XHYFNraQEEo
 * https://towardsdatascience.com/survival-analysis-intuition-implementation-in-python-504fde4fcf8e
 * https://lifelines.readthedocs.io/en/latest/Quickstart.html
+
+</details>
